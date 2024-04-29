@@ -1,0 +1,23 @@
+E:\oop2\oop 2 lab task\Sign up\Sign up\bin\Debug\Sign up.exe.config
+E:\oop2\oop 2 lab task\Sign up\Sign up\bin\Debug\Sign up.exe
+E:\oop2\oop 2 lab task\Sign up\Sign up\bin\Debug\Sign up.pdb
+E:\oop2\oop 2 lab task\Sign up\Sign up\obj\Debug\Sign up.csproj.AssemblyReference.cache
+E:\oop2\oop 2 lab task\Sign up\Sign up\obj\Debug\Sign_up.Form1.resources
+E:\oop2\oop 2 lab task\Sign up\Sign up\obj\Debug\Sign_up.Properties.Resources.resources
+E:\oop2\oop 2 lab task\Sign up\Sign up\obj\Debug\Sign up.csproj.GenerateResource.cache
+E:\oop2\oop 2 lab task\Sign up\Sign up\obj\Debug\Sign up.csproj.CoreCompileInputs.cache
+E:\oop2\oop 2 lab task\Sign up\Sign up\obj\Debug\Sign up.exe
+E:\oop2\oop 2 lab task\Sign up\Sign up\obj\Debug\Sign up.pdb
+E:\oop2\oop 2 lab task\Sign up\Sign up\obj\Debug\Sign_up.Login.resources
+E:\oop2\oop 2 lab task\testing folder\Sign up\Sign up\bin\Debug\Sign up.exe.config
+E:\oop2\oop 2 lab task\testing folder\Sign up\Sign up\bin\Debug\Sign up.exe
+E:\oop2\oop 2 lab task\testing folder\Sign up\Sign up\bin\Debug\Sign up.pdb
+E:\oop2\oop 2 lab task\testing folder\Sign up\Sign up\obj\Debug\Sign up.csproj.AssemblyReference.cache
+E:\oop2\oop 2 lab task\testing folder\Sign up\Sign up\obj\Debug\Sign_up.Form1.resources
+E:\oop2\oop 2 lab task\testing folder\Sign up\Sign up\obj\Debug\Sign_up.Login.resources
+E:\oop2\oop 2 lab task\testing folder\Sign up\Sign up\obj\Debug\Sign_up.menu.resources
+E:\oop2\oop 2 lab task\testing folder\Sign up\Sign up\obj\Debug\Sign_up.Properties.Resources.resources
+E:\oop2\oop 2 lab task\testing folder\Sign up\Sign up\obj\Debug\Sign up.csproj.GenerateResource.cache
+E:\oop2\oop 2 lab task\testing folder\Sign up\Sign up\obj\Debug\Sign up.csproj.CoreCompileInputs.cache
+E:\oop2\oop 2 lab task\testing folder\Sign up\Sign up\obj\Debug\Sign up.exe
+E:\oop2\oop 2 lab task\testing folder\Sign up\Sign up\obj\Debug\Sign up.pdb
